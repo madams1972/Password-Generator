@@ -30,7 +30,6 @@ WHEN the password is generated THEN the password is either displayed in an alert
 
 
 
-The following explains the Password Generator application's functionality:
 
 
 
